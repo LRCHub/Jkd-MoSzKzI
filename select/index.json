@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Lifelike",
+  "base_artist": "Porter Robinson",
+  "createdAt": "2026-04-05T01:37:44.932254Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "In for the Kill (Lifelike Remix)",
+      "artist": "La Roux",
+      "has_synced": true,
+      "path": "select/01_In_for_the_Kill_(Lifelike_Remix)_La_Roux.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love Can't Turn Around (Lifelike Remix)",
+      "artist": "Farley \"Jackmaster\" Funk",
+      "has_synced": false,
+      "path": "select/02_Love_Can't_Turn_Around_(Lifelike_Remix)_Farley__Jackmaster__Funk.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love Can't Turn Around (Lifelike Remix)",
+      "artist": "Farley Jackmaster Funk",
+      "has_synced": false,
+      "path": "select/03_Love_Can't_Turn_Around_(Lifelike_Remix)_Farley_Jackmaster_Funk.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Needy Girl (Lifelike Remix)",
+      "artist": "Chromeo",
+      "has_synced": false,
+      "path": "select/04_Needy_Girl_(Lifelike_Remix)_Chromeo.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Promises (Lifelike Remix)",
+      "artist": "The Presets",
+      "has_synced": true,
+      "path": "select/05_Promises_(Lifelike_Remix)_The_Presets.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "This Boy's In Love (Lifelike Remix)",
+      "artist": "The Presets",
+      "has_synced": false,
+      "path": "select/06_This_Boy's_In_Love_(Lifelike_Remix)_The_Presets.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Day Too Soon - Lifelike Remix",
+      "artist": "Sia",
+      "has_synced": false,
+      "path": "select/07_Day_Too_Soon_-_Lifelike_Remix_Sia.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Day Too Soon (Lifelike Remix)",
+      "artist": "Sia",
+      "has_synced": false,
+      "path": "select/08_Day_Too_Soon_(Lifelike_Remix)_Sia.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "74 Is the New 24 (Lifelike & Kris Menace Remix)",
+      "artist": "Giorgio Moroder",
+      "has_synced": false,
+      "path": "select/09_74_Is_the_New_24_(Lifelike_&_Kris_Menace_Remix)_Giorgio_Moroder.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lifelike",
+      "artist": "Karnivool",
+      "has_synced": true,
+      "path": "select/10_Lifelike_Karnivool.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lifelike",
+      "artist": "Antarctigo Vespucci",
+      "has_synced": false,
+      "path": "select/11_Lifelike_Antarctigo_Vespucci.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lifelike Song",
+      "artist": "Candlebox",
+      "has_synced": false,
+      "path": "select/12_Lifelike_Song_Candlebox.txt"
+    }
+  ]
+}
